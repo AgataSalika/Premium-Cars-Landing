@@ -105,24 +105,24 @@ img{
  
     .one {
         height: 560px;
-        background: url("./img/Image_1.png") center/cover no-repeat;
+        background: url("/img/header_1.png") center/cover no-repeat;
     }
 
     .two {
-        background: url("./img/Image 2.png") center/cover no-repeat;
+        background: url("/img/header_2.png") center/cover no-repeat;
        
     }
 
     .three {
-        background: url("./img/Image 3.png") center/cover no-repeat;
+        background: url("/img/header_3.png") center/cover no-repeat;
       
     }
     .four {
-        background: url("./img/Image 4.png") center/cover no-repeat;
+        background: url("/img/header_4.png") center/cover no-repeat;
         padding: 30px 20px;
     }
     .five {
-        background: url("./img/Image 5.png") center/cover no-repeat;
+        background: url("/img/header_5.png") center/cover no-repeat;
       
     }
 
@@ -370,22 +370,22 @@ margin-top: 60px;
 
 .inst__one {
 
-    background: url("./img/inst 1.png") center/cover no-repeat;
+    background: url("/img/inst 1.png") center/cover no-repeat;
     border-radius: 5px;
 }
 .inst__two {
   
-    background: url("./img/inst 2.png") center/cover no-repeat;
+    background: url("/img/inst 2.png") center/cover no-repeat;
     border-radius: 5px;
 }
 .inst__three {
    
-    background: url("./img/inst 3.png") center/cover no-repeat;
+    background: url("/img/inst 3.png") center/cover no-repeat;
     border-radius: 5px;
 }
 .inst__four {
  
-    background: url("./img/inst 4.png") center/cover no-repeat;
+    background: url("/img/inst 4.png") center/cover no-repeat;
     border-radius: 5px;
 }
 .inst__five {
@@ -395,7 +395,7 @@ margin-top: 60px;
 }
 .inst__six {
  
-    background: url("./img/inst 6.png") center/cover no-repeat;
+    background: url("/img/inst 6.png") center/cover no-repeat;
     border-radius: 5px;
 }
 

@@ -118,7 +118,7 @@ img{
       
     }
     .four {
-        background: url("/img/header_4.png") center/cover no-repeat;
+        background: url("./img/header_4.png") center/cover no-repeat;
         padding: 30px 20px;
     }
     .five {
@@ -395,7 +395,7 @@ margin-top: 60px;
 }
 .inst__six {
  
-    background: url("/img/inst 6.png") center/cover no-repeat;
+    background: url("./img/inst 6.png") center/cover no-repeat;
     border-radius: 5px;
 }
 
